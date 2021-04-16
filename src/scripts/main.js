@@ -1,3 +1,5 @@
-fetch('http://localhost:8088/pokemon').then(response =>  response.json()).then(data => {
-    console.log('data', data);
-})
+import ApiManager from "./apiManager";
+
+let apiManager = new ApiManager();
+
+console.log(apiManager.getData());
