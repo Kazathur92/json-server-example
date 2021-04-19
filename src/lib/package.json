@@ -24,6 +24,7 @@
     "nss-domcomponent": "^0.1.2"
   },
   "dependencies": {
+    "bulma": "^0.9.2",
     "coffeescript": "^2.5.1",
     "cross-env": "^7.0.3",
     "moment": "^2.22.2"
