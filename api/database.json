@@ -1,7 +1,18 @@
 {
-  "pokemon": {
-    "charmander": {
-      "name": "charmander"
+  "pokemon": [
+    {
+      "name": "poliwrath",
+      "id": 1
+    },
+    {
+      "name": "charizard",
+      "id": 2
     }
-  }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "name": "Gabe"
+    }
+  ]
 }
